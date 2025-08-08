@@ -1,5 +1,5 @@
 # The Binding of Isaac: Cat Tarot cards
-![The Sun Card reskin](/resources/gfx/ui/giantbook/giantbook_005_tarot.png)
+![The Sun Card reskin](/resources/gfx/ui/giantbook/giantbook_005_tarot.png) ![The skull popup reskin](/resources/gfx/ui/giantbook/giantbook_012_skull.png)
 ## Use the Cat Tarot cards of your dreams!
 
 This is a reskin of all of the tarot cards in the game, using meme cats as reference. To install the mod, navigate to your Binding of Isaac: Repentance steam directory by:
