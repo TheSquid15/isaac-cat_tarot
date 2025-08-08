@@ -9,7 +9,7 @@ Click Properties
 Then Installed Files or Local Files
 Click Browse Local Files
 ```
-Open the ´mods´ folder and create a new folder with a name of your choice.
+Open the `mods` folder and create a new folder with a name of your choice.
 Put all these files into the folder you have created and enjoy.
 
 Remember to enable the mod!
